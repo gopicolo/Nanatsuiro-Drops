@@ -2,7 +2,7 @@
 # Nanatsuiro★Drops Text Tool
 
 A pair of Python scripts for extracting, editing, and repacking in-game text from the **PC version of Nanatsuiro★Drops**.  
-This tool was created for translation purposes, but may also work with other visual novels using the same engine.
+This tool was created for Nanatsuiro★Drops, but may also work with other visual novels using the same engine.
 
 ---
 
@@ -92,12 +92,7 @@ modified/scenario.dat
 
 ## 🛠️ Requirements
 
-- Python 3.6+
-- Works on Windows, Linux, and Mac (cross-platform)
+- Python 3.6 or higher
+- No external dependencies (pure Python)
 
----
-
-## 📜 License
-
-MIT License.  
-Created by [gopicolo](https://github.com/gopicolo).
+If you have any questions or feedback, feel free to reach out!
